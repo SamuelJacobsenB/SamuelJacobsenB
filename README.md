@@ -57,13 +57,10 @@
 <h2>📫 Contato</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" />
-  </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:samueljb.dev@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat" />
   </a>
-  <a href="https://wa.me/55SEUNUMERO" target="_blank">
+  <a href="https://wa.me/5527997627406" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat" />
   </a>
 </p>
