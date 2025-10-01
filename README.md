@@ -3,7 +3,7 @@
 <p align="center">
   Desenvolvedor <strong>Full-Stack</strong> dedicado a tecnologia e soluções eficientes.<br>
   Foco em <strong>React (Next.js & Vite)</strong>, <strong>TypeScript</strong>, <strong>Node.js (NestJS & Express)</strong> e <strong>Go (Gin)</strong>.<br>
-  Tenho grande em inglês e sempre estou buscando aprimorar minhas abilidades
+  Tenho grande conhecimento em inglês e sempre estou buscando aprimorar minhas abilidades
 </p>
 
 <hr>
