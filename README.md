@@ -2,7 +2,7 @@
 
 <p align="center">
   Desenvolvedor <strong>Full-Stack</strong> dedicado a tecnologia e soluções eficientes.<br>
-  Foco em <strong>React (Next.js & Vite)</strong>, <strong>TypeScript</strong>, <strong>Node.js (NestJS & Express)</strong> e <strong>Go (Gin)</strong>.<br>
+  Foco em <strong>React (Next.js & Vite)</strong>, <strong>TypeScript</strong>, <strong>Go (Gin)</strong> e <strong>Node.js (NestJS & Express)</strong>.<br>
   Tenho grande conhecimento em inglês e sempre estou buscando aprimorar minhas abilidades
 </p>
 
@@ -36,13 +36,13 @@
 
 <h3>Back-End</h3>
 <p>
+  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Gin-00ADD8?logo=go&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Gin-00ADD8?logo=go&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" />
 </p>
 
 <h3>📚 Em Aprendizado</h3>
